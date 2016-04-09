@@ -5,5 +5,3 @@ PHP Learning project
 =
 
 Projeto de aprendizado de PHP
-
-hello
